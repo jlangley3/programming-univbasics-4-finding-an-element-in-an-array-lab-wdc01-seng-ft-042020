@@ -9,5 +9,5 @@ while count < array.length do
     
 end
 array = [1,2,3,4,5,6,7,8]
-value_to_find = 6
+value_to_find = 12
 puts find_element_index(array, value_to_find)
